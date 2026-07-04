@@ -1,4 +1,4 @@
-const CACHE_NAME = 'sloka-memorizer-v2';
+const CACHE_NAME = 'sloka-memorizer-v3';
 const ASSETS = [
   './',
   './index.html',
